@@ -1,6 +1,18 @@
 li {
 	list-style: none;
 	display: inline-block;
+	font-size: 150%;
+}
+
+p {
+	font-family: 'Corinthia', cursive;
+	font-size: 200%;
+	margin: 10px 5% 10px 5%;
+}
+
+section p {
+	margin-top: 10px;
+	text-align: justify;
 }
 
 a {
